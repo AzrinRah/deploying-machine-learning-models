@@ -1,4 +1,4 @@
-# production requirements
+# production requirements, if old version need to check
 pandas==0.23.4
 numpy==1.13.3
 scikit-learn==0.19.0
